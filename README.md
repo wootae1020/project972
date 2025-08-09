@@ -20,8 +20,8 @@ README와 함께 각 프로젝트 폴더로 이동하시면 기획서, 발표자
 * 다중 회귀·로지스틱 회귀 분석으로 거래 성사 영향 요인 도출
 * 가격 정책·전문가 인센티브·수수료 구조 개선안 제시
 
-**기획서:** [statistics\_project\_proposal.pdf](./project-statistics/results/statistics_project_proposal.pdf)
-**발표자료:** [statistics\_project\_presentation.pdf](./project-statistics/results/statistics_project_presentation.pdf)
+ **기획서:** [statistics\_project\_proposal.pdf](./project-statistics/results/statistics_project_proposal.pdf)
+ **발표자료:** [statistics\_project\_presentation.pdf](./project-statistics/results/statistics_project_presentation.pdf)
 
 ---
 
@@ -34,8 +34,8 @@ README와 함께 각 프로젝트 폴더로 이동하시면 기획서, 발표자
 * 인코딩·스케일링·중복 제거 규칙 표준화
 * XGBoost, LightGBM, CatBoost 비교 → Soft Voting 앙상블 모델 최종 선정
 
-**기획서:** [ml\_project\_proposal.pdf](./project-ml/results/ml_project_proposal.pdf)
-**발표자료:** [ml\_project\_presentation.pdf](./project-ml/results/ml_project_presentation.pdf)
+ **기획서:** [ml\_project\_proposal.pdf](./project-ml/results/ml_project_proposal.pdf)
+ **발표자료:** [ml\_project\_presentation.pdf](./project-ml/results/ml_project_presentation.pdf)
 
 ---
 
@@ -48,8 +48,8 @@ README와 함께 각 프로젝트 폴더로 이동하시면 기획서, 발표자
 * LSTM 기반 예측 모델 개발 (노선별 RMSE 3.14\~4.93)
 * 혼잡도 패턴 분석 기반 광고 집행 전략 제안
 
-**기획서:** [dl\_project\_proposal.pdf](./project-dl/results/dl_project_proposal.pdf)
-**발표자료:** [dl\_project\_presentation.pdf](./project-dl/results/dl_project_presentation.pdf)
+ **기획서:** [dl\_project\_proposal.pdf](./project-dl/results/dl_project_proposal.pdf)
+ **발표자료:** [dl\_project\_presentation.pdf](./project-dl/results/dl_project_presentation.pdf)
 
 ---
 
@@ -62,8 +62,8 @@ README와 함께 각 프로젝트 폴더로 이동하시면 기획서, 발표자
 * AutoML 기반 이탈 예측 모델 구축 및 리텐션 전략 수립
 * 배송 지연 사전 감지 모델 개발
 
-**기획서:** [mldl\_project\_proposal.pdf](./project-mldl/results/mldl_project_proposal.pdf)
-**발표자료:** [mldl\_project\_presentation.pdf](./project-mldl/results/mldl_project_presentation.pdf)
+ **기획서:** [mldl\_project\_proposal.pdf](./project-mldl/results/mldl_project_proposal.pdf)
+ **발표자료:** [mldl\_project\_presentation.pdf](./project-mldl/results/mldl_project_presentation.pdf)
 
 ---
 
@@ -76,9 +76,9 @@ README와 함께 각 프로젝트 폴더로 이동하시면 기획서, 발표자
 * EPU 지수·뉴스 토픽 모델링 기반 변동성 해석 기능 구현
 * 예측 + 손익 시뮬레이션 + 전략 제안까지 원스톱 서비스 설계
 
-**기획서:** [fxrisk\_project\_proposal.pdf](./project-fxrisk/results/fxrisk_project_proposal.pdf)
-**발표자료:** [fxrisk\_project\_presentation.pdf](./project-fxrisk/results/fxrisk_project_presentation.pdf)
-**보고서:** [fxrisk\_project\_report.pdf](./project-fxrisk/results/fxrisk_project_report.pdf)
+ **기획서:** [fxrisk\_project\_proposal.pdf](./project-fxrisk/results/fxrisk_project_proposal.pdf)
+ **발표자료:** [fxrisk\_project\_presentation.pdf](./project-fxrisk/results/fxrisk_project_presentation.pdf)
+ **보고서:** [fxrisk\_project\_report.pdf](./project-fxrisk/results/fxrisk_project_report.pdf)
 
 ---
 
