@@ -9,6 +9,10 @@ README와 함께 각 프로젝트 폴더로 이동하시면 기획서, 발표자
 
 ---
 
+About Me [Notion](https://www.notion.so/24a677f310e680f282d2d7c063d33d1f?source=copy_link)
+
+---
+
 ## 프로젝트 목록
 
 ### 1. [통계학 기반 금융 데이터 분석](https://github.com/wootae1020/project-statistics)
