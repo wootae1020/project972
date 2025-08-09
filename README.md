@@ -17,7 +17,9 @@
   - 고가 서비스일수록 거래 실패 가능성 증가
   - 수수료율은 매출에는 긍정적이나 성사율과 무관
 - **기술 스택:** Python, Pandas, Statsmodels, Matplotlib, Seaborn
-- **산출물:** [제안서 PDF](https://github.com/wootae1020/project-statistics/blob/main/results/statistics_project_proposal.pdf) · [보고서 PDF](https://github.com/wootae1020/project-statistics/blob/main/results/statistics_project_report.pdf)
+- **산출물:**  
+  - [기획서 PDF](https://github.com/wootae1020/project-statistics/blob/main/results/statistics_project_proposal.pdf)  
+  - [프레젠테이션 PDF](https://github.com/wootae1020/project-statistics/blob/main/results/statistics_project_presentation.pdf)
 
 ---
 
@@ -33,7 +35,9 @@
   - 고차원·불균형 데이터에 대한 안정적 성능 확보
   - 세그먼트 기준 재정의 및 피처 정제 필요성 확인
 - **기술 스택:** Python, scikit-learn, XGBoost, LightGBM, CatBoost, Optuna
-- **산출물:** [기획서 PDF](https://github.com/wootae1020/project-ml/blob/main/results/ml_project_proposal.pdf) · [보고서 PDF](https://github.com/wootae1020/project-ml/blob/main/results/ml_project_report.pdf)
+- **산출물:**  
+  - [기획서 PDF](https://github.com/wootae1020/project-ml/blob/main/results/ml_project_proposal.pdf)  
+  - [프레젠테이션 PDF](https://github.com/wootae1020/project-ml/blob/main/results/ml_project_presentation.pdf)
 
 ---
 
@@ -49,7 +53,9 @@
   - 황사 발생 시 혼잡도 평균 9.29% 증가 분석
   - 혼잡도 기반 광고 전략 제안 (시간대·노선별 맞춤형 광고)
 - **기술 스택:** Python, TensorFlow/Keras(LSTM), Pandas, Scikit-learn, Matplotlib
-- **산출물:** [제안서 PDF](https://github.com/wootae1020/project-dl/blob/main/results/dl_project_proposal.pdf) · [보고서 PDF](https://github.com/wootae1020/project-dl/blob/main/results/dl_project_report.pdf)
+- **산출물:**  
+  - [기획서 PDF](https://github.com/wootae1020/project-dl/blob/main/results/dl_project_proposal.pdf)  
+  - [프레젠테이션 PDF](https://github.com/wootae1020/project-dl/blob/main/results/dl_project_presentation.pdf)
 
 ---
 
@@ -66,7 +72,9 @@
   - 이탈 위험 고객 조기 식별 및 대응 전략 마련
   - 배송 지연 사전 감지 가능 모델 구현
 - **기술 스택:** Python, pandas, scikit-learn, LightGBM, H2O AutoML, NLP(Okt, Kiwi, LDA), matplotlib, seaborn, plotly
-- **산출물:** [기획서 PDF](https://github.com/wootae1020/project-mldl/blob/main/results/mldl_project_proposal.pdf) · [보고서 PDF](https://github.com/wootae1020/project-mldl/blob/main/results/mldl_project_report.pdf)
+- **산출물:**  
+  - [기획서 PDF](https://github.com/wootae1020/project-mldl/blob/main/results/mldl_project_proposal.pdf)  
+  - [프레젠테이션 PDF](https://github.com/wootae1020/project-mldl/blob/main/results/mldl_project_presentation.pdf)
 
 ---
 
@@ -82,4 +90,7 @@
   - 날짜별 주요 이슈·EPU 추이·예측 환율 기반 손익 시뮬레이션 및 전략 추천 기능 구현
   - 기업·은행·투자자가 환율 변동에 선제 대응할 수 있는 실용적 플랫폼 완성
 - **기술 스택:** Python, LSTM, XGBoost, Random Forest, BERT, Streamlit, Pandas, Matplotlib, Seaborn
-- **산출물:** [README](https://github.com/wootae1020/project-fxrisk/blob/main/README.md)
+- **산출물:**  
+  - [기획서 PDF](https://github.com/wootae1020/project-fxrisk/blob/main/results/fxrisk_project_proposal.pdf)  
+  - [프레젠테이션 PDF](https://github.com/wootae1020/project-fxrisk/blob/main/results/fxrisk_project_presentation.pdf)  
+  - [보고서 PDF](https://github.com/wootae1020/project-fxrisk/blob/main/results/fxrisk_project_report.pdf)
